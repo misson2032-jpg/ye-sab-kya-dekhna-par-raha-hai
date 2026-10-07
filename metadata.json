@@ -1,0 +1,6 @@
+{
+  "name": "MAYUI - OS for TECNO SPARK Go 2024",
+  "description": "Production-quality flagship smartphone operating system and launcher specifically optimized for TECNO SPARK Go 2024 with 1-tap HiOS switching, APK installer, MAY Store, and smooth performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
